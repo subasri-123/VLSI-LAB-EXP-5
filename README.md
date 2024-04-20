@@ -1,5 +1,5 @@
 ## VLSI-LAB-EXP-5
-SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
+## SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
 ## AIM:
 To simulate and synthesis finite state machine using vivado.chine using Xilinx ISE.
 
@@ -57,7 +57,7 @@ endmodule
 ## OUTPUT:
 ![Screenshot (25)](https://github.com/subasri-123/VLSI-LAB-EXP-5/assets/166198549/db5841b7-ada0-451e-bd35-af0dab6005b2)
 
-### RESULT:
+## RESULT:
 Thus,the simulation and synthesis of finite state machine by using vivado has been successfully excecuted and verified.
 
 
